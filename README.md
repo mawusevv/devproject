@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mawusevv
+- 👀 I’m interested in anything tech and creativity
+- 🌱 I’m currently learning angular and ruby 
+- 📫 vuvormawuse@gmail.com  
